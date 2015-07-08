@@ -24,6 +24,8 @@ return [
      *
      */
     'baseURL' => 'img',
+    
+    'test' => '1',
 
     /*
      * The maximum allowed total image size in pixels
